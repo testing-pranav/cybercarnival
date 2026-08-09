@@ -1,0 +1,12 @@
+# The real rules live in backend/.gitignore and frontend/.gitignore —
+# this is just a safety net in case anything's ever created at the root.
+.env
+*.env
+!*.env.example
+!*.env.development
+__pycache__/
+node_modules/
+.next/
+out/
+*.pyc
+.DS_Store
