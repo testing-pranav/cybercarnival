@@ -1,0 +1,112 @@
+[
+  {
+    "id": "c09933fc-8550-40b8-a679-ecf853aa15b1",
+    "name": "CAPTURE THE FLAG",
+    "fee": "₹250 PER TEAM",
+    "team_size": "TBA",
+    "venue": "SRM RAMAPURAM",
+    "date": "7 — 8 OCTOBER",
+    "active": true,
+    "created_at": 1786273606.246819
+  },
+  {
+    "id": "a7525566-fdca-4a4c-b674-13c132d15d2c",
+    "name": "BUG BOUNTY",
+    "fee": "₹200 PER TEAM",
+    "team_size": "2 MEMBERS",
+    "venue": "SRM RAMAPURAM",
+    "date": "7 — 8 OCTOBER",
+    "active": true,
+    "created_at": 1786273606.2479215
+  },
+  {
+    "id": "8e988673-665f-4505-bddc-1207ebbec56e",
+    "name": "RED TEAM × BLUE TEAM",
+    "fee": "₹250 PER TEAM",
+    "team_size": "TBA",
+    "venue": "SRM RAMAPURAM",
+    "date": "7 — 8 OCTOBER",
+    "active": true,
+    "created_at": 1786273606.2487414
+  },
+  {
+    "id": "d7c41087-9411-4da5-89a4-ee8097556e26",
+    "name": "PAPER PRESENTATION",
+    "fee": "TBA",
+    "team_size": "TBA",
+    "venue": "SRM RAMAPURAM",
+    "date": "7 — 8 OCTOBER",
+    "active": true,
+    "created_at": 1786273606.249614
+  },
+  {
+    "id": "ad440237-e005-4f94-8c73-e0a14cc17349",
+    "name": "CYBER CONCLAVE",
+    "fee": "TBA",
+    "team_size": "TBA",
+    "venue": "SRM RAMAPURAM",
+    "date": "7 — 8 OCTOBER",
+    "active": true,
+    "created_at": 1786273606.2502208
+  },
+  {
+    "id": "36bb3ea0-8aa6-4c12-92dd-ba7d04af2754",
+    "name": "TOOL EXPO",
+    "fee": "₹250 PER TEAM",
+    "team_size": "TBA",
+    "venue": "SRM RAMAPURAM",
+    "date": "7 — 8 OCTOBER",
+    "active": true,
+    "created_at": 1786273606.2508686
+  },
+  {
+    "id": "aca8deda-108f-468a-a6f7-4a87b2feb747",
+    "name": "WORKSHOPS",
+    "fee": "TBA",
+    "team_size": "TBA",
+    "venue": "SRM RAMAPURAM",
+    "date": "7 OCTOBER",
+    "active": true,
+    "created_at": 1786273606.251419
+  },
+  {
+    "id": "8424d788-1b10-4777-885a-a35426354bcb",
+    "name": "SHARK TANK",
+    "fee": "₹250 PER TEAM",
+    "team_size": "TBA",
+    "venue": "SRM RAMAPURAM",
+    "date": "7 — 8 OCTOBER",
+    "active": true,
+    "created_at": 1786273606.2519114
+  },
+  {
+    "id": "0c98304b-6588-404f-8a67-e6e489eee9c6",
+    "name": "SHIPWRECK",
+    "fee": "₹200 PER TEAM",
+    "team_size": "1 — 2 MEMBERS",
+    "venue": "SRM RAMAPURAM",
+    "date": "7 — 8 OCTOBER",
+    "active": true,
+    "created_at": 1786273606.2524283
+  },
+  {
+    "id": "fe999780-b61e-41e0-bda7-827b108da116",
+    "name": "BEHIND THE CRIME",
+    "fee": "₹250 PER TEAM",
+    "team_size": "TBA",
+    "venue": "SRM",
+    "date": "7 OCTOBER",
+    "active": true,
+    "created_at": 1786273606.2530131
+  },
+  {
+    "id": "84fb96cc-d8af-4ec4-b0cc-d5126a9783fa",
+    "name": "CYBER AWARENESS RALLY",
+    "fee": "TBA",
+    "team_size": "TBA",
+    "venue": "TBA",
+    "date": "7 — 8 OCTOBER",
+    "active": true,
+    "created_at": 1786273606.2536447
+  }
+]
